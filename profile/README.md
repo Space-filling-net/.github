@@ -6,5 +6,5 @@ We propose Space Filling Nets: instead of reducing the data to one dimension, we
 
 The project is split into two repositories:
 
-- "Squarenet": Python implementation for converting $[N,D]$ point clouds into structured grids.
-- "Cartesian-Grid-Sort": mathematical details of the optimization algorithm.
+- `Squarenet`: Python implementation for converting $[N,D]$ point clouds into structured grids.
+- `Cartesian-Grid-Sort`: mathematical details of the optimization algorithm.
