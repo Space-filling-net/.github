@@ -10,4 +10,4 @@ The project is split into two repositories:
 - `Cartesian-Grid-Sort`: mathematical details of the optimization algorithm.
 
 
-<img  https://github.com/Space-filling-net/.github/blob/main/mesh.jpg />
+![Space Filling Net](https://raw.githubusercontent.com/Space-filling-net/.github/main/mesh.jpg)
