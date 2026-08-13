@@ -8,3 +8,6 @@ The project is split into two repositories:
 
 - `Squarenet`: Python implementation for converting $[N,D]$ point clouds into structured grids.
 - `Cartesian-Grid-Sort`: mathematical details of the optimization algorithm.
+
+
+<img  https://github.com/Space-filling-net/.github/blob/main/mesh.jpg />
