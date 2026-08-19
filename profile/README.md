@@ -2,7 +2,7 @@ The discrete space-filling (or serialization) problem consists in organizing spa
 
 Space-filling curves solve this by mapping multidimensional data to a one-dimensional ordering. However, this unfolding can break local spatial relationships: nearby points may become distant in the resulting order.
 
-`Space-filling nets`, instead of reducing the data to one dimension, construct a regular multidimensional grid passing through all points. Each point $(x,y,z,\ldots)$ receives a `spatial multi-index` $[i,j,k,\ldots]$, preserving the geometric structure of the original point cloud. Thus a space-filling net is nothing more but a multi-dimensional sorting algorithm with a grid based storage instead of standard linear $0,1,2$ etc. storage. Kind of an adaptative, bijective voxel structure with a strict one-to-one correspondance between data points and grid cells.
+`Space-filling nets`, instead of reducing the data to one dimension, construct a regular multidimensional grid passing through all points. Each point $(x,y,z,\ldots)$ receives a `spatial multi-index` $[i,j,k,\ldots]$, preserving the geometric structure of the original point cloud. Thus a space-filling net is nothing more but a multi-dimensional sorting algorithm with a grid based storage instead of standard linear storage. Kind of an adaptative, bijective voxel structure with a strict one-to-one correspondance between data points and grid cells.
 
 The project is split into two repositories:
 
